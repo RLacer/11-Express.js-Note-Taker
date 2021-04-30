@@ -37,10 +37,10 @@ class Store {
             text,
             id: uuid()
         }
-        return this.getNotes() 
+        return this.getNotes()
             .then(notes => [...notes, newNote])
             .then(updatedNotes => this.write(updatedNotes))
-            .then( () => newNote);
+            .then(() => newNote);
 
     }
 
