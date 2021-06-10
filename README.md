@@ -47,4 +47,8 @@
 ### Link
 Deployed page on Heroku: https://damp-lake-21717.herokuapp.com/
 
+
+#### Screenshot
+![screenshot](assets/notetaker.png)
+
 <footer>This readme was generated using my homework assignment 9, Node.js readme generator.🏫</footer>
